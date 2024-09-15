@@ -4,7 +4,7 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## About Me
 
-- **Experience**: Over 4 years in web development
+- **Experience**: 5 years in web development
 - **Skills**: 
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
