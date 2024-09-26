@@ -20,6 +20,8 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## My Projects
 
+- [Login page](https://github.com/pouryaZeidi/Yadeam-Login)
+- [Rent Car](https://github.com/pouryaZeidi/Rent-Car-application)
 - [Crypto Project](https://github.com/pouryaZeidi/Crypto-Project-task)
 - [Digital Shop](https://github.com/pouryaZeidi/Digital-Onlineshop)
 - [Daily Calendar](https://github.com/pouryaZeidi/Activity-calender)
