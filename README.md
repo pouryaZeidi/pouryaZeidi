@@ -1,4 +1,5 @@
-# Hello, I am Pourya Zeydi! 👋
+## Hello, 
+## I am Pourya Zeydi! 👋
 
 Welcome to my GitHub profile page. I am a frontend developer specializing in creating dynamic and user-friendly web applications. With 5 years of experience in the industry, I have worked on designing and developing user interfaces and have contributed to various projects.
 
@@ -20,6 +21,7 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## My Projects
 
+- [Coffee Shop - Nim Cafe](https://github.com/pouryaZeidi/NimCafe)
 - [Login page](https://github.com/pouryaZeidi/Yadeam-Login)
 - [Rent Car](https://github.com/pouryaZeidi/Rent-Car-application)
 - [Crypto Project](https://github.com/pouryaZeidi/Crypto-Project-task)
