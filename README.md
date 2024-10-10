@@ -20,7 +20,7 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-  ## - Interests: Learning new technologies and improving skills, running, tennis, music, and meditation
+  - **Interests**: Learning new technologies and improving skills 💻📚, running 🏃‍♂️👟, tennis 🎾🏅, music 🎶🎧, and meditation 🧘‍♂️🌿 
 
 ## My Projects
 
