@@ -19,6 +19,13 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
   - ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
   - **Interests**: Learning new technologies and improving skills 💻📚, running 🏃‍♂️👟, tennis 🎾🏅, music 🎶🎧, and meditation 🧘‍♂️🌿 
 
