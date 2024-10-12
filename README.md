@@ -35,5 +35,8 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pourya-zeydi-b6b440260)
-- [Portfolio](https://pouryazeydi.info)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pourya-zeydi-b6b440260)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-4A154B?style=flat&logo=web&logoColor=white)](https://pouryazeydi.info)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeidipourya@gmail.com)
+
+
