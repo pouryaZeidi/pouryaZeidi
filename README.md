@@ -34,14 +34,18 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## My Projects
 
-- [Coffee Shop - Nim Cafe](https://github.com/pouryaZeidi/NimCafe)
-- [Login page](https://github.com/pouryaZeidi/Yadeam-Login)
-- [Rent Car](https://github.com/pouryaZeidi/Rent-Car-application)
-- [Crypto Project](https://github.com/pouryaZeidi/Crypto-Project-task)
-- [Digital Shop](https://github.com/pouryaZeidi/Digital-Onlineshop)
-- [Daily Calendar](https://github.com/pouryaZeidi/Activity-calender)
-- [Home Decor](https://github.com/pouryaZeidi/Home-Decor)
-- [Widgets](https://github.com/pouryaZeidi/Widgets-Tailwindcss)
+| Project Name              | Description                                           | GitHub Link                                      |
+|--------------------------|-------------------------------------------------------|--------------------------------------------------|
+| Nim Cafe                  | A cozy coffee shop website showcasing menu and location | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/NimCafe) |
+| Login Page                | A sleek login page design for user authentication        | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Yadeam-Login) |
+| Rent Car                 | An application for renting cars with search functionality | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Rent-Car-application) |
+| Crypto Project            | A project for tracking cryptocurrency prices and trends   | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Crypto-Project-task) |
+| Digital Shop              | An online shop for digital products                       | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Digital-Onlineshop) |
+| Daily Calendar            | A daily calendar application for managing tasks           | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Activity-calender) |
+| Home Decor                | A website for home decor ideas and inspiration            | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Home-Decor) |
+| Widgets                   | A collection of UI widgets built with Tailwind CSS        | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pouryaZeidi/Widgets-Tailwindcss) |
+
+
 
 ## Connect with Me
 
