@@ -7,7 +7,7 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 - **Experience**: 5 years in web development
 
- **Skills**: 
+ ## Skills: 
 <table>
   <thead>
     <tr>
