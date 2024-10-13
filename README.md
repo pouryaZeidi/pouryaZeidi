@@ -5,7 +5,9 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
 ## About Me
 
-- **Experience**: 5 years in web development
+- Experience: 5 years of professional experience in web development, focusing on frontend technologies, UI/UX design, and performance optimization.
+- Projects: Worked on multiple high-impact projects, contributing to both small businesses and large enterprises, with a focus on delivering clean, maintainable code.
+- Passion: Dedicated to building seamless digital experiences that prioritize user satisfaction and performance.
 
  ## Skills: 
 <table>
@@ -130,7 +132,7 @@ Welcome to my GitHub profile page. I am a frontend developer specializing in cre
 
   - **Interests**: Learning new technologies and improving skills 💻📚, running 🏃‍♂️👟, tennis 🎾🏅, music 🎶🎧, and meditation 🧘‍♂️🌿 
 
-## My Projects
+## My Test Codes On Github
 
 | Project Name              | Description                                           | GitHub Link                                      |
 |--------------------------|-------------------------------------------------------|--------------------------------------------------|
